@@ -7,4 +7,4 @@
 Paste this into your executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/VexusLibrary/main/init.lua"))()
+loadstring(game:https://github.com/VexusExecutor/VexusLibrary/blob/main/VexusLibrary/init.lua"))()
