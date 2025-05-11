@@ -1,3 +1,4 @@
+print("Vexus UI Library is loading...")
 local TweenUtil = require(script.Parent.utils.TweenUtil)
 local CustomButton = require(script.Parent.Modules.CustomButton)
 local CustomInput = require(script.Parent.Modules.CustomInput)
